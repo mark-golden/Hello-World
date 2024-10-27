@@ -10,7 +10,7 @@ consolelogger = logging.getLogger('ConsoleOutput')
 filelogger = logging.getLogger()
 
 def main():
-	print('heworld')
+	print('hello world')
 
 if __name__ == '__main__':
 	main()
